@@ -1,0 +1,44 @@
+{
+  "Products": [
+    {
+      "id": "1002",
+      "name": "TV",
+      "category": "Electronics",
+      "price": 45000,
+      "model_no": "Bravia",
+      "release_date": "3/4/2019",
+      "units": 5,
+      "desc": "64 inch Oled Tv"
+    },
+    {
+      "id": "1003",
+      "name": "Microwave",
+      "category": "Kitchen Appliances",
+      "price": 10000,
+      "model_no": "Zen2",
+      "release_date": "25/7/2013",
+      "units": 9,
+      "desc": "Energy efficient Microwave"
+    },
+    {
+      "id": "1004",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 25000,
+      "model_no": "m21",
+      "release_date": "2021-05-20",
+      "units": "24",
+      "desc": "48 mp rear camera, 20 mp front"
+    },
+    {
+      "id": "L65",
+      "name": "Laptop 75",
+      "category": "Electronics",
+      "price": "30288.22",
+      "model_no": "AcerAspireF15",
+      "release_date": "2007-07-19",
+      "units": "87",
+      "desc": "Laptop 1tb hdd, 4gb ram"
+    }
+  ]
+}
